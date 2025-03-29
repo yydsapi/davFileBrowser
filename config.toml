@@ -1,0 +1,5 @@
+address = "0.0.0.0" # listen address
+port = 9997 # listen port
+secret_dav_list = true # whether to hide the list of DAVs in index page
+rootPath = "V:/fileBrowser"
+

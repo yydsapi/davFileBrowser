@@ -1,0 +1,62 @@
+ .\filebrowser config init
+.\filebrowser config set --branding.name "Yyds WebDav"
+ .\filebrowser users add limon 123456 --perm.admin
+.\filebrowser config set --root="V:\Test\Movies"
+.\filebrowser config set --port="8008"
+.\filebrowser config set --address="0.0.0.0"
+
+
+base) PS D:\Work\go\filebrowser> .\filebrowser config init
+2024/09/06 15:57:21 Using database: D:\Work\go\filebrowser\filebrowser.db
+
+Congratulations! You've set up your database to use with File Browser.
+Now add your first user via 'filebrowser users add' and then you just
+need to call the main command to boot up the server.
+Sign up:          false
+Create User Dir:  false
+Auth method:      json
+Shell:
+
+Branding:
+  Name:
+  Files override:
+  Disable external links:              false
+  Disable used disk percentage graph:  false
+  Color:
+  Theme:
+
+Server:
+  Log:           stdout
+  Port:          8080
+  Base URL:
+  Root:          .
+  Socket:
+  Address:       127.0.0.1
+  TLS Cert:
+  TLS Key:
+  Exec Enabled:  false
+
+Defaults:
+  Scope:         .
+  Locale:        en
+  View mode:     list
+  Single Click:  false
+  Commands:
+  Sorting:
+    By:   name
+    Asc:  false
+  Permissions:
+    Admin:     false
+    Execute:   true
+    Create:    true
+    Rename:    true
+    Modify:    true
+    Delete:    true
+    Share:     true
+    Download:  true
+
+Auther configuration (raw):
+
+{
+  "recaptcha": null
+}
