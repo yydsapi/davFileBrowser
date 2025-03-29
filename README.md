@@ -44,8 +44,12 @@ https://github.com/emersion/go-webdav
 
 
 ## Contact
-mail: vnextcanary@gmail.com  
-or visit link: https://yydsapi.com/library/listitem?page=library&category=MUcDljbq_go
+https://yydsapi.com https://yydsapi.cn mail: yydsapi@gmail.com  
+
+or visit link:
+
+https://yydsapi.com/library/listitem?page=library&category=MUcDljbq_go
+
 https://yydsapi.cn/library/listitem?page=library&category=MUcDljbq_go
 
 ## tips:
@@ -57,7 +61,8 @@ If you have good projects or suggestions, we can help you realize it
 If you like or plan to use this project,please give me a star, thank you!
 
 ## Donation
-If this project makes you feel good, You can donate to the following link to better support the development of this project and the team:
+If this project makes you feel good, You can donate to the following link to better support the development of this project:
+<br /><br />
 ![10](/static/img/donation/alipay.jpg)   <br /><br /> <br />
 
 ![10](/static/img/donation/weixin.jpg)    <br /><br /> <br />
@@ -68,5 +73,4 @@ If this project makes you feel good, You can donate to the following link to bet
 >![11](/static/img/screenshots/mainpage.jpg)  <br /><br />
 #### publish 
 >![11](/static/img/screenshots/publish.jpg)  <br /><br />
-#### show content 1
 
